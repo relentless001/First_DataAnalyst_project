@@ -1,1 +1,1 @@
-# First_DataAnalisys_project
+# First_DataAnalyst_project
